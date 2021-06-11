@@ -1,0 +1,282 @@
+body {
+  margin: 0;
+  background-color: black;
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.container {
+  max-width: 1170px;
+  width: 100%;
+  display: flex-root;
+  margin: 0 auto;
+}
+
+#mendixa {
+  background-image: url("IMG_0141 (2).png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+#mendixa .overlayxa {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100vh;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#mendixa .mendixa3 {
+  position: absolute;
+  width: 698px;
+  right: 0;
+  bottom: 0;
+  height: 370px;
+  background-image: url("PngItem_1269361.png");
+}
+
+#mendixa .mendixa1 {
+  position: absolute;
+  width: 298px;
+  left: 0;
+  bottom: 0;
+  height: 680px;
+  background-image: url("pngwing.com (1).png");
+}
+
+#mendixa .mendixa2 {
+  position: absolute;
+  width: 698px;
+  left: 0;
+  right: 80px;
+  margin: 0 auto;
+  bottom: -80px;
+  height: 980px;
+  background-image: url("pngwing.com.png");
+}
+
+section {
+  position: relative;
+  z-index: 5;
+  background-color: #000000;
+}
+
+section .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100vh;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  position: relative;
+}
+
+section .container .kajia {
+  max-width: 550px;
+  width: 100%;
+  height: 200px;
+  border: 2px solid #fff;
+  padding: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0 15px;
+}
+
+section .container .kajia p {
+  color: white;
+}
+
+section .container .boxa {
+  max-width: 100%;
+  width: 100%;
+  height: 200px;
+  border: 2px solid #fff;
+  padding: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0 15px;
+}
+
+section .container .boxa p {
+  color: white;
+}
+
+p {
+  color: #fff;
+}
+
+#uga {
+  z-index: -1;
+  position: absolute;
+  left: -140px;
+  margin-top: -6%;
+}
+#uga2 {
+  margin-top: -2%;
+  z-index: -1;
+  position: absolute;
+  right: -60px;
+}
+#saizu {
+  margin-top: -20%;
+  z-index: -1;
+  position: absolute;
+  left: -10%;
+}
+#saizu2 {
+  margin-top: -12.5%;
+  z-index: -1;
+  position: absolute;
+  margin-right: 0%;
+}
+#saiarrea1 {
+  margin-top: -25%;
+  z-index: -1;
+  position: absolute;
+  margin-left: -24%;
+}
+#urubixa {
+  margin-top: -12.8%;
+  z-index: -1;
+  position: absolute;
+  margin-left: -33%;
+}
+#arranosu {
+  margin-top: -22%;
+  z-index: -1;
+  position: absolute;
+  margin-left: -17%;
+}
+
+.titulua, .titulua2, .titulua3{
+  padding-top: 22%;
+}
+.titulua{
+  width: 90%;
+  margin-bottom: 0;
+  margin-left: -200px;
+  margin-right: 200px;
+}
+.titulua2{
+  width: 120%;
+  margin-left: -12%;
+}
+.titulua3{
+  width: 105%;
+  margin-left: -7%;
+}
+.titulua4{
+  padding-top: 16%;
+  margin-left: -126%;
+}
+.titulua5{
+  padding-top: 22%;
+  margin-left: -50%;
+}
+
+#taulia1{
+  margin-top: -2%;
+  position: absolute;
+  margin-left: 15%;
+  margin-right: auto;
+}
+#taulia2{
+  margin-top: -4%;
+  position: absolute;
+  margin-left: 15%;
+  margin-right: auto;
+}
+#taulia3{
+  margin-top: -10%;
+}
+
+
+#tit{
+  margin-top: -35%;
+  margin-left: 16%;
+  margin-right: auto;
+}
+
+
+.hurrengua {
+  border: 2px solid rgb(252, 50, 50);
+  z-index: 1;
+}
+.hurrengua:after {
+  position: absolute;
+  content: "";
+  width: 0;
+  height: 100%;
+  top: 0;
+  right: 0;
+  z-index: -1;
+  background: rgb(219, 53, 53);
+  transition: all 0.3s ease;
+}
+.hurrengua:hover {
+  color: #fff;
+}
+.hurrengua:hover:after {
+  left: 0;
+  width: 100%;
+}
+.hurrengua:active {
+  top: 2px;
+}
+
+button {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  text-align: center;
+  color: #eb2121;
+}
+button {
+  margin: 20px;
+}
+.botoia {
+  padding: 10px 25px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  background: transparent;
+  outline: none !important;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+}
+
+
+
+/*# sourceMappingURL=index.css.map */
