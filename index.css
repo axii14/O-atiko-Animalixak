@@ -11,7 +11,7 @@ body {
   
   
 }
-.boxa p, .boxa2 p, .kajia p{
+.boxa p, .boxa2 p, .kajia p, a{
   font-size: 25px;
   font-family: 'Josefin Sans', sans-serif;
 }
@@ -151,7 +151,7 @@ section .container .boxa2 {
   margin: 0 15px -210px 0;
 }
 
-section .container .boxa p, section .container .boxa2 p {
+section .container .boxa p, section .container .boxa2 p, a {
   color: white;
 }
 
@@ -300,6 +300,10 @@ button {
   transition: all 0.3s ease;
   position: relative;
   display: inline-block;
+}
+
+a{
+text-decoration: none;
 }
 
 
