@@ -126,7 +126,7 @@ section .container .kajia p {
 section .container .boxa {
   max-width: 100%;
   width: 100%;
-  height: 380px;
+  height: 340px;
   border: 2px solid #fff;
   padding-right: 20px;
   padding-left: 20px;
@@ -228,7 +228,7 @@ p {
 }
 
 #taulia1{
-  margin-top: -2%;
+  margin-top: 0%;
   position: absolute;
   margin-left: 15%;
   margin-right: auto;
