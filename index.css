@@ -170,13 +170,13 @@ p {
   right: -60px;
 }
 #saizu {
-  margin-top: -15%;
+  margin-top: -18%;
   z-index: -1;
   position: absolute;
   left: -10%;
 }
 #saizu2 {
-  margin-top: -7%;
+  margin-top: -10%;
   z-index: -1;
   position: absolute;
   margin-right: 0%;
@@ -188,13 +188,13 @@ p {
   margin-left: -24%;
 }
 #urubixa {
-  margin-top: -12.8%;
+  margin-top: -14.8%;
   z-index: -1;
   position: absolute;
   margin-left: -33%;
 }
 #arranosu {
-  margin-top: -22%;
+  margin-top: -24%;
   z-index: -1;
   position: absolute;
   margin-left: -17%;
@@ -211,7 +211,7 @@ p {
 .titulua2{
   width: 120%;
   margin-left: -12%;
-  margin-top: 40%;
+  margin-top: 36%;
 }
 .titulua3{
   width: 105%;
@@ -219,11 +219,11 @@ p {
   margin-top: 30%;
 }
 .titulua4{
-  padding-top: 16%;
+  padding-top: 6%;
   margin-left: -126%;
 }
 .titulua5{
-  padding-top: 22%;
+  padding-top: 6%;
   margin-left: -50%;
 }
 
