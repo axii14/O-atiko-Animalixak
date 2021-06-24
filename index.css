@@ -228,7 +228,7 @@ p {
 }
 
 #taulia1{
-  margin-top: 0%;
+  margin-top: 1%;
   position: absolute;
   margin-left: 15%;
   margin-right: auto;
@@ -237,6 +237,7 @@ p {
   position: absolute;
   margin-left: 15%;
   margin-right: auto;
+  margin-top: 55%;
 }
 #taulia3{
   margin-top: -10%;
