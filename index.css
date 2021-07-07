@@ -412,6 +412,9 @@ nav ul li ul li a {
   nav ul li ul li a {
     padding-left: 30px;
   }
+  .boxa, .boxa2, .boxa3, .boxa4{
+    display: block;
+  }
 }
 
 @media screen and (min-width: 799px) {
