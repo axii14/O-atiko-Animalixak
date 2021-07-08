@@ -1,6 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 
+@media all and (max-width: 768px){
 
+  section .container{
+      height: 36vh;
+  }}
+@media all and (min-width: 768px){
+
+  section .container{
+      height: 100vh;
+  }}
 
 
 body {
@@ -95,7 +104,6 @@ section .container {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  height: 100vh;
   -ms-flex-pack: distribute;
       justify-content: space-around;
   -webkit-box-align: center;
