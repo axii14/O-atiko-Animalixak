@@ -1,0 +1,171 @@
+section .container .kajia {
+  max-width: 550px;
+  width: 100%;
+  height: 200px;
+  border: 2px solid #fff;
+  padding: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0 15px;
+}
+
+section .container .kajia p {
+  color: white;
+}
+
+section .container .boxa {
+  max-width: 100%;
+  width: 100%;
+  height: 510px;
+  border: 2px solid #fff;
+  padding-right: 20px;
+  padding-left: 20px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0 15px -160px 0;
+}
+
+section .container .boxa2 {
+    max-width: 100%;
+    width: 100%;
+    height: 490px;
+    border: 2px solid #fff;
+    padding-right: 20px;
+    padding-left: 20px;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin: 0 15px -360px 0;
+}
+
+section .container .boxa3 {
+    max-width: 100%;
+    width: 100%;
+    height: 530px;
+    border: 2px solid #fff;
+    padding-right: 20px;
+    padding-left: 20px;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin: 0 15px -540px 0;
+  }
+
+  section .container .boxa4 {
+    max-width: 100%;
+    width: 100%;
+    height: 490px;
+    border: 2px solid #fff;
+    padding-right: 20px;
+    padding-left: 20px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin: 0 15px -250px 0;
+  }
+
+
+#uga {
+  z-index: -1;
+  position: absolute;
+  margin-top: -24%;
+  padding-left: 7%;
+}
+#uga2 {
+  margin-top: -7%;
+  z-index: -1;
+  position: absolute;
+  right: -300px;
+}
+#saizu {
+  margin-top: -24%;
+  z-index: -1;
+  position: absolute;
+  left: 50%;
+}
+#saizu2 {
+  margin-top: -7%;
+  z-index: -1;
+  position: absolute;
+  margin-right: 0%;
+}
+#saiarrea1 {
+  margin-top: -9%;
+  z-index: -1;
+  position: absolute;
+  margin-left: 4%;
+}
+#urubixa {
+  margin-top: -4%;
+  z-index: -1;
+  position: absolute;
+  margin-left: 16%;
+}
+#arranosu {
+  margin-top: -22%;
+  z-index: -1;
+  position: absolute;
+  margin-left: -17%;
+}
+
+
+.titulua{
+  width: 150%;
+  margin-bottom: 0;
+margin-left: 12%;
+margin-right: auto;
+  padding-top: 24%;
+}
+.titulua2{
+  width: 110%;
+  margin-left: 24%;
+  margin-top: 30%;
+}
+.titulua3{
+  width: 150%;
+  margin-left: 11%;
+  margin-top: 50%;
+}
+.titulua4{
+  width: 120%;
+  margin-left: -12%;
+  margin-top: 20%;
+}
+
+#taulia1{
+  margin-top: 8%;
+  position: absolute;
+  margin-bottom: -300px;
+  margin-left: -110px;
+}
+#taulia2{
+  position: absolute;
+  margin-left: 15%;
+  margin-right: auto;
+  margin-top: 15%
+}
+#taulia3{
+  margin-top: 20%;
+}
+#taulia4{
+    margin-top: 13%;
+    position: absolute;
+    margin-bottom: -300px;
+    margin-left: -110px;
+  }
+
+
+#tit{
+  margin-top: 4%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#kont{
+  margin-top: 22%;
+}
