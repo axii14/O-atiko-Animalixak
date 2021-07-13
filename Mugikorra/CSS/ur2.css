@@ -27,7 +27,7 @@ section .container .boxa {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  margin: 0 15px -260px 0;
+  margin: 0 15px -330px 0;
 }
 
 section .container .boxa2 {
@@ -40,7 +40,7 @@ section .container .boxa2 {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    margin: 0 15px -360px 0;
+    margin: 0 15px -530px 0;
 }
 
 section .container .boxa3 {
@@ -53,7 +53,7 @@ section .container .boxa3 {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    margin: 0 15px -540px 0;
+    margin: 0 15px -720px 0;
   }
 
   section .container .boxa4 {
@@ -150,7 +150,7 @@ margin-right: auto;
   margin-top: 15%
 }
 #taulia3{
-  margin-top: 20%;
+  margin-top: 40%;
 }
 #taulia4{
     margin-top: 13%;
