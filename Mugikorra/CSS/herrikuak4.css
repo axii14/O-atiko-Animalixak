@@ -134,10 +134,9 @@ section .container .kajia {
     margin-top: 12%;
   }
   .titulua4{
-    margin-top: 22%;
-    position: absolute;
-    margin-bottom: -300px;
-    margin-left: -100;
+   margin-top: 8%;
+    margin-left: 40%;
+    width: 90%;
   }
   .titulua5{
     width: 100%;
