@@ -16,34 +16,59 @@ section .container .kajia {
 section .container .boxa {
   max-width: 100%;
   width: 100%;
-  height: 320px;
+  height: 450px;
   border: 2px solid #fff;
   padding-right: 20px;
   padding-left: 20px;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  margin: 0 15px -20% 0;
+  margin: 0 15px -250px 0;
 }
 
 section .container .boxa2 {
   max-width: 100%;
   width: 100%;
-  height: 250px;
+  height: 990px;
   border: 2px solid #fff;
   padding-right: 20px;
   padding-left: 20px;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  margin: 0 15px -210px 0;
+  margin: 0 15px -860px 0;
 }
+
+section .container .boxa3 {
+    max-width: 100%;
+    width: 100%;
+    height: 610px;
+    border: 2px solid #fff;
+    padding-right: 20px;
+    padding-left: 20px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin: 0 15px -1630px 0;
+  }
+
+  section .container .boxa4 {
+    max-width: 100%;
+    width: 100%;
+    height: 490px;
+    border: 2px solid #fff;
+    padding-right: 20px;
+    padding-left: 20px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin: 0 15px -250px 0;
+  }
 
 #uga {
   z-index: -1;
   position: absolute;
-  left: -140px;
-  margin-top: -6%;
+  margin-top: 60%;
 }
 #uga2 {
   margin-top: -2%;
@@ -52,13 +77,13 @@ section .container .boxa2 {
   right: -60px;
 }
 #saizu {
-  margin-top: -18%;
+  margin-top: -15%;
   z-index: -1;
   position: absolute;
   left: -10%;
 }
 #saizu2 {
-  margin-top: -10%;
+  margin-top: -7%;
   z-index: -1;
   position: absolute;
   margin-right: 0%;
@@ -70,13 +95,13 @@ section .container .boxa2 {
   margin-left: -24%;
 }
 #urubixa {
-  margin-top: -14.8%;
+  margin-top: -12.8%;
   z-index: -1;
   position: absolute;
   margin-left: -33%;
 }
 #arranosu {
-  margin-top: -24%;
+  margin-top: -22%;
   z-index: -1;
   position: absolute;
   margin-left: -17%;
@@ -84,36 +109,32 @@ section .container .boxa2 {
 
 
 .titulua{
-  width: 90%;
+  width: 120%;
   margin-bottom: 0;
-  margin-left: -200px;
-  margin-right: 200px;
-  padding-top: 36%;
+margin-left: -13%;
+margin-right: auto;
+  padding-top: 24%;
 }
 .titulua2{
   width: 120%;
   margin-left: -12%;
-  margin-top: 36%;
-}
-.titulua3{
-  width: 105%;
-  margin-left: -7%;
   margin-top: 30%;
 }
-.titulua4{
-  padding-top: 6%;
-  margin-left: -126%;
+.titulua3{
+  width: 160%;
+  margin-left: -36%;
+  margin-top: 124%;
 }
-.titulua5{
-  padding-top: 6%;
-  margin-left: -50%;
+.titulua4{
+  width: 120%;
+  margin-left: -12%;
+  margin-top: 20%;
 }
 
 #taulia1{
-  margin-top: 1%;
+  margin-top: -2%;
   position: absolute;
-  margin-left: 15%;
-  margin-right: auto;
+  margin-bottom: -300px;
 }
 #taulia2{
   position: absolute;
@@ -121,8 +142,11 @@ section .container .boxa2 {
   margin-right: auto;
 }
 #taulia3{
-  margin-top: -10%;
+  margin-top: 44%;
 }
+#taulia4{
+    margin-top: -5%;
+  }
 
 
 #tit{
