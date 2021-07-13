@@ -161,7 +161,10 @@ section .container .kajia {
     margin-top: 30%;
   }
   #taulia4{
-      margin-top: -5%;
+    margin-top: 22%;
+    position: absolute;
+    margin-bottom: -300px;
+    margin-left: -100;
     }
   
   
