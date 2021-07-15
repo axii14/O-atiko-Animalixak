@@ -1,7 +1,7 @@
 section .container .kajia {
     max-width: 550px;
     width: 100%;
-    height: 200px;
+    height: 260px;
     border: 2px solid #fff;
     padding: 20px;
     display: -webkit-box;
@@ -11,7 +11,7 @@ section .container .kajia {
         -ms-flex-align: center;
             align-items: center;
     margin: 0 15px;
-    margin-top: 20%;
+    margin-top: 30%;
   }
   
   section .container .kajia p {
@@ -21,20 +21,20 @@ section .container .kajia {
   section .container .boxa {
     max-width: 100%;
     width: 100%;
-    height: 390px;
+    height: 440px;
     border: 2px solid #fff;
     padding-right: 20px;
     padding-left: 20px;
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    margin: 0 15px -240px 0;
+    margin: 0 15px -200px 0;
   }
   
   section .container .boxa2 {
     max-width: 100%;
     width: 100%;
-    height: 410px;
+    height: 530px;
     border: 2px solid #fff;
     padding-right: 20px;
     padding-left: 20px;
@@ -42,7 +42,7 @@ section .container .kajia {
         -ms-flex-align: center;
             align-items: center;
     margin: 0 15px 1300px 0;
-    margin-top: 132%;
+    margin-top: 165%;
   }
   
   section .container .boxa3 {
@@ -145,21 +145,25 @@ section .container .kajia {
   }
   
   #taulia1{
-    margin-top: -2%;
+    margin-top: 3%;
     position: absolute;
     margin-bottom: -300px;
-    margin-left: -160;
+    margin-left: -110;
   }
   #taulia2{
     position: absolute;
-    margin-left: 15%;
+    margin-left: 18%;
     margin-right: auto;
+    margin-top: 6%;
   }
   #taulia3{
-    margin-top: 4%;
+    margin-top: 6%;
   }
   #taulia4{
-      margin-top: -5%;
+    margin-top: 9%;
+    position: absolute;
+    margin-bottom: -300px;
+    margin-left: -110;
     }
   
   
