@@ -21,14 +21,14 @@ section .container .kajia {
   section .container .boxa {
     max-width: 100%;
     width: 100%;
-    height: 390px;
+    height: 440px;
     border: 2px solid #fff;
     padding-right: 20px;
     padding-left: 20px;
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    margin: 0 15px -240px 0;
+    margin: 0 15px -200px 0;
   }
   
   section .container .boxa2 {
@@ -42,33 +42,33 @@ section .container .kajia {
         -ms-flex-align: center;
             align-items: center;
     margin: 0 15px 1300px 0;
-    margin-top: 132%;
+    margin-top: 160%;
   }
   
   section .container .boxa3 {
       max-width: 100%;
       width: 100%;
-      height: 400px;
+      height: 500px;
       border: 2px solid #fff;
       padding-right: 20px;
       padding-left: 20px;
       -webkit-box-align: center;
           -ms-flex-align: center;
               align-items: center;
-      margin: 0 15px -250px 0;
+      margin: 0 15px -370px 0;
     }
   
     section .container .boxa4 {
     max-width: 100%;
     width: 100%;
-    height: 400px;
+    height: 430px;
     border: 2px solid #fff;
     padding-right: 20px;
     padding-left: 20px;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    margin: 0 15px 1130px 0;
+    -ms-flex-align: center;
+    align-items: center;
+    margin: 0 15px -370px 0;
   }
   
   
@@ -145,22 +145,32 @@ section .container .kajia {
   }
   
   #taulia1{
-    margin-top: -2%;
+    margin-top: 3%;
     position: absolute;
     margin-bottom: -300px;
-    margin-left: -160;
+    margin-left: -100;
   }
   #taulia2{
     position: absolute;
     margin-left: 15%;
     margin-right: auto;
+    margin-top: 8%;
   }
   #taulia3{
     margin-top: 10%;
   }
   #taulia4{
-      margin-top: -5%;
+    margin-top: 5%;
+    position: absolute;
+    margin-bottom: -300px;
+    margin-left: -100;
     }
+  #taulia5{
+    margin-top: 10%;
+    position: absolute;
+    margin-bottom: -300px;
+    margin-left: -100;
+}
   
   
   #tit{
